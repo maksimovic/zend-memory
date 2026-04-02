@@ -20,7 +20,8 @@
     },
     "replace": {
         "zf1/zend-memory": "^1.12",
-        "zf1s/zend-memory": "^1.12"
+        "zf1s/zend-memory": "^1.12",
+        "zendframework/zend-memory": "*"
     },
     "scripts": {
         "test": "phpunit",
